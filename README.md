@@ -2,7 +2,7 @@
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
 
 
 
