@@ -1,4 +1,4 @@
-# Future Ready Talent - MyPdfAddA
+# Future Ready Talent - EduWell
 
 
 
@@ -6,16 +6,10 @@ AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
 
 
 
-MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
-as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
-
+EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
 
 # Features
 -  Good UI
-
--  Separate pages according to our semesters
-
--  Every Pdf Will load from drive for instant view or for download
 
 -  Easy To Navigate
 
@@ -45,15 +39,9 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 
 
 # About Us
-We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
+We are BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Uday Kiran Pamu(Lead)
-
--  G Mallika
-
--  N Srilatha
-
--  M Poojitha
+-  Keerthi Korumilli
 
 
 # Privacy Policies 
