@@ -51,6 +51,12 @@ EduWell is my project that is done as also called an online course, is any cours
 -  After Deploying Resource Group, Checked and run CI/CD in github actions 
 
 -  Finally Deployed my Static Web App.
+
+# Deployement  Screenshots
+
+- Azure ENvironment
+
+- Github Runtime Actions
  
 # Screenshots
 ![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
