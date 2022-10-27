@@ -27,11 +27,30 @@ EduWell is my project that is done as also called an online course, is any cours
 
 -  Js
 
+-  GitHub Tools
+
+-  Azure Static Web Apps
 
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
  
  -  Easy to Navigate in Both Mobile and Deaktop
+
+# Deployement in Azure
+
+-  Search for Static Web Apps Service Which is used for static web pages
+
+-  Start to Create Static Web App
+
+-  Select Subscription, Create Resource Group 
+
+-  Filled the Details of App informarion and Deployed Using through GitHub
+
+-  Reviwed and Cross Checked everything and Started to Deploy 
+
+-  After Deploying Resource Group, Checked and run CI/CD in github actions 
+
+-  Finally Deployed my Static Web App.
  
 # Screenshots
 ![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
