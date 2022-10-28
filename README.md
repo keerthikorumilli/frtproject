@@ -36,7 +36,7 @@ EduWell is my project that is done as also called an online course, is any cours
  
  -  Easy to Navigate in Both Mobile and Deaktop
 
-# Deployement in Azure
+# Deployment in Azure
 
 -  Search for Static Web Apps Service Which is used for static web pages
 
@@ -52,7 +52,7 @@ EduWell is my project that is done as also called an online course, is any cours
 
 -  Finally Deployed my Static Web App.
 
-# Deployement  Screenshots
+# Deployment  Screenshots
 
 - Azure Environment
 - ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
