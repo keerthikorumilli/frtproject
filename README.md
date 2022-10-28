@@ -9,7 +9,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
 
 
 
