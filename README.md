@@ -54,9 +54,11 @@ EduWell is my project that is done as also called an online course, is any cours
 
 # Deployement  Screenshots
 
-- Azure ENvironment
+- Azure Environment
 
 - Github Runtime Actions
+- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
  
 # Screenshots
 ![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
